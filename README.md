@@ -1,0 +1,1 @@
+# ntech.rabbit.masstransit
