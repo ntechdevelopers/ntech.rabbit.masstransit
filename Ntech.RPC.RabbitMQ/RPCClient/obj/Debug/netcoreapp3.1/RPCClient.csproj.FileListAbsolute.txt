@@ -1,0 +1,16 @@
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.exe
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.deps.json
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.runtimeconfig.json
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.runtimeconfig.dev.json
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.dll
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RPCClient.pdb
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.csproj.AssemblyReference.cache
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.AssemblyInfoInputs.cache
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.AssemblyInfo.cs
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.csproj.CopyComplete
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.dll
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.pdb
+C:\Users\namvut\Downloads\Ntech.RPC.RabbitMQ\RPCClient\obj\Debug\netcoreapp3.1\RPCClient.genruntimeconfig.cache

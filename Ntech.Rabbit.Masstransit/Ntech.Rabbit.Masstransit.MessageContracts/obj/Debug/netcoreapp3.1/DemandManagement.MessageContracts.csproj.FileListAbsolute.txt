@@ -1,0 +1,26 @@
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.deps.json
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.csprojAssemblyReference.cache
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfo.cs
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.deps.json
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.csprojAssemblyReference.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfo.cs
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.deps.json
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.csproj.AssemblyReference.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.AssemblyInfo.cs
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.MessageContracts\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb

@@ -1,0 +1,76 @@
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.exe
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.deps.json
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.json
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.dev.json
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csprojAssemblyReference.cache
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfoInputs.cache
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfo.cs
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.CopyComplete
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\facet\source\repos\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.exe
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.deps.json
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.json
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.dev.json
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csprojAssemblyReference.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfoInputs.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfo.cs
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.CoreCompileInputs.cache
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.CopyComplete
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\facet\Desktop\New folder\Ntech.Rabbit.Masstransit\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.genruntimeconfig.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.exe
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.deps.json
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.json
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.runtimeconfig.dev.json
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Automatonymous.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\GreenPipes.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\NewId.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\bin\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.MessageContracts.pdb
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.AssemblyReference.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfoInputs.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.AssemblyInfo.cs
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.CoreCompileInputs.cache
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.csproj.CopyComplete
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.dll
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.pdb
+C:\Users\namvut\Downloads\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit-master\Ntech.Rabbit.Masstransit.Thirdparty.Service\obj\Debug\netcoreapp3.1\Ntech.Rabbit.Masstransit.Thirdparty.Service.genruntimeconfig.cache
