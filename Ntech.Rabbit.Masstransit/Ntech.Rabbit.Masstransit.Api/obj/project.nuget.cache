@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wF2OwZrHNN/64P4f/oOEDxg8cuCmB+obUtOtQffCF75DZXxs/a/UxduNz3HpQbU4cBqYqKyMjFAEw6WmaAFZwA==",
+  "dgSpecHash": "Yq2EZVA22Pn+cajgiGPxrZeVCyGcr43YsVpGW4zPhHRZbFisQWaplMWwNH4gCB/ulR0c7znQ6O4zoOUqjwTvrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Api\\Ntech.Rabbit.Masstransit.Api.csproj",
+  "projectFilePath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Api\\Ntech.Rabbit.Masstransit.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namvut\\.nuget\\packages\\automatonymous\\4.2.1\\automatonymous.4.2.1.nupkg.sha512",
     "C:\\Users\\namvut\\.nuget\\packages\\greenpipes\\3.0.1\\greenpipes.3.0.1.nupkg.sha512",

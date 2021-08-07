@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj": {}
+    "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
+    "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
+        "projectUniqueName": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
         "projectName": "Ntech.Rabbit.Masstransit.MessageContracts",
-        "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
+        "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
         "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\obj\\",
+        "outputPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj": {
+    "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj",
+        "projectUniqueName": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj",
         "projectName": "Ntech.Rabbit.Masstransit.Server",
-        "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj",
+        "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\Ntech.Rabbit.Masstransit.Server.csproj",
         "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\obj\\",
+        "outputPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
-                "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj"
+              "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
+                "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj"
               }
             }
           }

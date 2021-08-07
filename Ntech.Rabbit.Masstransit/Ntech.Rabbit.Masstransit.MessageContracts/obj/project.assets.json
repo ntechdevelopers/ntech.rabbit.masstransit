@@ -4879,11 +4879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
+      "projectUniqueName": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
       "projectName": "Ntech.Rabbit.Masstransit.MessageContracts",
-      "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
+      "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj",
       "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\obj\\",
+      "outputPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

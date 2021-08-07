@@ -4898,11 +4898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Callback\\Ntech.Rabbit.Masstransit.Client.csproj",
+      "projectUniqueName": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Callback\\Ntech.Rabbit.Masstransit.Client.csproj",
       "projectName": "Ntech.Rabbit.Masstransit.Client",
-      "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Callback\\Ntech.Rabbit.Masstransit.Client.csproj",
+      "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Callback\\Ntech.Rabbit.Masstransit.Client.csproj",
       "packagesPath": "C:\\Users\\namvut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Callback\\obj\\",
+      "outputPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Callback\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4922,8 +4922,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
-              "projectPath": "C:\\Users\\namvut\\Downloads\\DemandManagement-master\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj"
+            "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj": {
+              "projectPath": "D:\\Seminar\\RabbitMQ\\ntech.rabbit.masstransit\\Ntech.Rabbit.Masstransit\\Ntech.Rabbit.Masstransit.MessageContracts\\Ntech.Rabbit.Masstransit.MessageContracts.csproj"
             }
           }
         }

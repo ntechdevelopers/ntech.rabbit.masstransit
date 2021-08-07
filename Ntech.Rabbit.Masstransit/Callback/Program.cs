@@ -18,15 +18,18 @@ namespace Callback
             bus.Start();
             var text = "";
             Console.WriteLine("Publisher");
-            Console.Write("Enter a message: ");
-            text = Console.ReadLine();
-
-            var message = new SomethingHappenedMessage()
+            while (text != "quit")
             {
-                What = text,
-                When = DateTime.Now
-            };
-            bus.Publish(message);
+                Console.Write("Enter a message: ");
+                text = Console.ReadLine();
+
+                var message = new SomethingHappenedMessage()
+                {
+                    What = text,
+                    When = DateTime.Now
+                };
+                bus.Publish(message);
+            }
 
             bus.Stop();
         }
